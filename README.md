@@ -7,5 +7,7 @@ pip -m venv venv
 
 pip install -r requirements.txt
 
-python manage.py runserver
+cd app
+
+python main.py
 ```
