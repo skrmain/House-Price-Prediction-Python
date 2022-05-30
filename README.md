@@ -3,7 +3,7 @@
 ## Notes
 
 ```sh
-pip -m venv venv
+python -m venv venv
 
 pip install -r requirements.txt
 
@@ -11,3 +11,7 @@ cd app
 
 python main.py
 ```
+
+## References
+
+- https://youtu.be/DVxkI1VmpCk
