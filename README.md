@@ -6,7 +6,7 @@
 python -m venv venv
 
 # Windows
-venv/Scripts/activate
+venv\Scripts\activate
 # Linux
 source venv/bin/activate
 
